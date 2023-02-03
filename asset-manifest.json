@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ibrohimgets/github.io/weatherApp/static/css/main.e6d820b2.css",
-    "main.js": "/ibrohimgets/github.io/weatherApp/static/js/main.0e622669.js",
-    "index.html": "/ibrohimgets/github.io/weatherApp/index.html",
-    "main.e6d820b2.css.map": "/ibrohimgets/github.io/weatherApp/static/css/main.e6d820b2.css.map",
-    "main.0e622669.js.map": "/ibrohimgets/github.io/weatherApp/static/js/main.0e622669.js.map"
+    "main.css": "/weatherApp/static/css/main.e6d820b2.css",
+    "main.js": "/weatherApp/static/js/main.0e622669.js",
+    "index.html": "/weatherApp/index.html",
+    "main.e6d820b2.css.map": "/weatherApp/static/css/main.e6d820b2.css.map",
+    "main.0e622669.js.map": "/weatherApp/static/js/main.0e622669.js.map"
   },
   "entrypoints": [
     "static/css/main.e6d820b2.css",
